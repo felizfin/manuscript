@@ -1,0 +1,4 @@
+manuscript
+==========
+
+for documents
